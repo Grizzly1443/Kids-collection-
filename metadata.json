@@ -1,0 +1,6 @@
+{
+  "name": "Little Spark Co.",
+  "description": "A high-converting landing page for a kids clothing and accessories brand using a single HTML file.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

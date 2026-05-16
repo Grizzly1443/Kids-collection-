@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #FF6B6B;
+  --color-secondary: #FFD93D;
+  --color-accent: #6BCB77;
+  --color-surface: #FFF8F0;
+  --color-text-main: #2D2D2D;
+  --font-display: "Fredoka One", cursive;
+  --font-body: "Nunito", sans-serif;
+}
+
+body {
+  background-color: var(--color-surface);
+  color: var(--color-text-main);
+  font-family: var(--font-body);
+}
+
+h1, h2, h3, h4, h5, h6, .font-display {
+  font-family: var(--font-display);
+}
